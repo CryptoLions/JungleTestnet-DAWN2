@@ -1,0 +1,207 @@
+{
+  "initial_timestamp": "2018-03-22T12:00:00",
+  "initial_parameters": {
+    "maintenance_interval": 86400,
+    "maintenance_skip_slots": 3,
+    "maximum_transaction_size": 2048,
+    "maximum_block_size": 2048000000,
+    "maximum_time_until_expiration": 86400,
+    "maximum_producer_count": 1001
+  },
+  "immutable_parameters": {
+    "min_producer_count": 21
+  },
+  "initial_accounts": [{
+    "name": "lion",
+    "owner_key": "EOS6hfYBBAPnZrppM3PvEfu4Uat3oc7N9A7986r9bFDjxjyjs3tvA",
+    "active_key": "EOS6hfYBBAPnZrppM3PvEfu4Uat3oc7N9A7986r9bFDjxjyjs3tvA",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "wolf",
+    "owner_key": "EOS6hZYtXziRXNNb7raogLDrMMNTPWubP5SyT8JwMjFf7shswqC2x",
+    "active_key": "EOS6hZYtXziRXNNb7raogLDrMMNTPWubP5SyT8JwMjFf7shswqC2x",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "bear",
+    "owner_key": "EOS81d1gomNtj3iooPKBcFMg1MYWzC1brsMBtqPV5a6rihhz6LvTA",
+    "active_key": "EOS81d1gomNtj3iooPKBcFMg1MYWzC1brsMBtqPV5a6rihhz6LvTA",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "panther",
+    "owner_key": "EOS6NJ8fZWrfeU2KxicyMiAjjNMSv4gVsqy3G97STCtdJS5nB9HBr",
+    "active_key": "EOS6NJ8fZWrfeU2KxicyMiAjjNMSv4gVsqy3G97STCtdJS5nB9HBr",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "langurs",
+    "owner_key": "EOS5Z4izrQJYDRJKvVG32UPupDf7MDotUL89CLqUU2bgV73Lu2BHj",
+    "active_key": "EOS5Z4izrQJYDRJKvVG32UPupDf7MDotUL89CLqUU2bgV73Lu2BHj",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "crow",
+    "owner_key": "EOS5igX86nYDxXrY8W5tea8W1tLpf3VAYuhqsXYZAdQsELv9kTwsy",
+    "active_key": "EOS5igX86nYDxXrY8W5tea8W1tLpf3VAYuhqsXYZAdQsELv9kTwsy",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "python",
+    "owner_key": "EOS56L4iiTnuR3EAPvsWiaimRPrVDz8prV2A3PgygzB6U9Pex12r5",
+    "active_key": "EOS56L4iiTnuR3EAPvsWiaimRPrVDz8prV2A3PgygzB6U9Pex12r5",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "elephant",
+    "owner_key": "EOS889d9M8AxYpTa6CXB9zxufAXAnP8X99dYR7f5KEMx4WZHsEyvi",
+    "active_key": "EOS889d9M8AxYpTa6CXB9zxufAXAnP8X99dYR7f5KEMx4WZHsEyvi",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "bat",
+    "owner_key": "EOS5Fji6x8dgSPHzpi7NpYxQT8V1gxC7cEjKnan2CivHBikS4etyC",
+    "active_key": "EOS5Fji6x8dgSPHzpi7NpYxQT8V1gxC7cEjKnan2CivHBikS4etyC",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "tiger",
+    "owner_key": "EOS64M8ycqmpCuASmgMcnm82NhKuid5kQewuwnC8L9Dfqsw5oPgiJ",
+    "active_key": "EOS64M8ycqmpCuASmgMcnm82NhKuid5kQewuwnC8L9Dfqsw5oPgiJ",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "cobra",
+    "owner_key": "EOS7xMbVC4ZEgib1yw55XZhLVXFGXERP8EGA4BpZfbWckFDYZ1o3u",
+    "active_key": "EOS7xMbVC4ZEgib1yw55XZhLVXFGXERP8EGA4BpZfbWckFDYZ1o3u",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "fox",
+    "owner_key": "EOS6bCCmUMqUJJ6H1NEXbMymYYyVGYyydjdmCEevpv3zGq39M8aFV",
+    "active_key": "EOS6bCCmUMqUJJ6H1NEXbMymYYyVGYyydjdmCEevpv3zGq39M8aFV",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "gorilla",
+    "owner_key": "EOS5Un1GewtVuTabfoV6CbXcSd1Eurog48YcRYHgtgUnsmGoTKcBJ",
+    "active_key": "EOS5Un1GewtVuTabfoV6CbXcSd1Eurog48YcRYHgtgUnsmGoTKcBJ",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "jaguar",
+    "owner_key": "EOS7CYgrJrkqxVUN8iMF2djM97AVUKha99VGeaBLEkE9DRuBXFo5C",
+    "active_key": "EOS7CYgrJrkqxVUN8iMF2djM97AVUKha99VGeaBLEkE9DRuBXFo5C",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "lemur",
+    "owner_key": "EOS5PGpAfocRKj5yt41XkjupPE1LfLpQHpUvUK9Y1cMwBdhz3RWTb",
+    "active_key": "EOS5PGpAfocRKj5yt41XkjupPE1LfLpQHpUvUK9Y1cMwBdhz3RWTb",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "boar",
+    "owner_key": "EOS8XecFVmptNZktRCLyBV71V2hXoxmTonpZtQG8TGcW7K9aVc3m6",
+    "active_key": "EOS8XecFVmptNZktRCLyBV71V2hXoxmTonpZtQG8TGcW7K9aVc3m6",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "leopard",
+    "owner_key": "EOS67Znu8W4sBH4RzYAPy3MekGsbwNK7pJhreQoZh58RU9sDGPYzm",
+    "active_key": "EOS67Znu8W4sBH4RzYAPy3MekGsbwNK7pJhreQoZh58RU9sDGPYzm",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "lizard",
+    "owner_key": "EOS5G5rM2SmLziLokcoN84pdzFzHppXHxScx6d4zTNNrx8jhPDwFD",
+    "active_key": "EOS5G5rM2SmLziLokcoN84pdzFzHppXHxScx6d4zTNNrx8jhPDwFD",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+  },{
+    "name": "tortoise",
+    "owner_key": "EOS8Eb76Wf2DcGZ58c8i5MZeEZvECz8dyGmR6LZRboeHue59k6a2B",
+    "active_key": "EOS8Eb76Wf2DcGZ58c8i5MZeEZvECz8dyGmR6LZRboeHue59k6a2B",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "wombat",
+    "owner_key": "EOS5stKY8oL3VqdxLozuv5wzEiYLQkSUV96BJ7rn6BaYXtuz2CHrS",
+    "active_key": "EOS5stKY8oL3VqdxLozuv5wzEiYLQkSUV96BJ7rn6BaYXtuz2CHrS",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  },{
+    "name": "zebra",
+    "owner_key": "EOS5WCfxXkRFmay7FqUS4keQuvEmkV11d2uCngZkfcRn3BtpL73j2",
+    "active_key": "EOS5WCfxXkRFmay7FqUS4keQuvEmkV11d2uCngZkfcRn3BtpL73j2",
+    "liquid_balance": "1000000.0000 EOS"
+    "staking_balance": "100.0000 EOS"
+  }],
+  "initial_producers": [{
+    "owner_name": "lion",
+    "block_signing_key": "EOS6hfYBBAPnZrppM3PvEfu4Uat3oc7N9A7986r9bFDjxjyjs3tvA"
+  },{
+    "owner_name": "wolf",
+    "block_signing_key": "EOS6hZYtXziRXNNb7raogLDrMMNTPWubP5SyT8JwMjFf7shswqC2x"
+  },{
+    "owner_name": "bear",
+    "block_signing_key": "EOS81d1gomNtj3iooPKBcFMg1MYWzC1brsMBtqPV5a6rihhz6LvTA"
+  },{
+    "owner_name": "panther",
+    "block_signing_key": "EOS6NJ8fZWrfeU2KxicyMiAjjNMSv4gVsqy3G97STCtdJS5nB9HBr"
+  },{
+    "owner_name": "langurs",
+    "block_signing_key": "EOS5Z4izrQJYDRJKvVG32UPupDf7MDotUL89CLqUU2bgV73Lu2BHj"
+  },{
+    "owner_name": "crow",
+    "block_signing_key": "EOS5igX86nYDxXrY8W5tea8W1tLpf3VAYuhqsXYZAdQsELv9kTwsy"
+  },{
+    "owner_name": "python",
+    "block_signing_key": "EOS56L4iiTnuR3EAPvsWiaimRPrVDz8prV2A3PgygzB6U9Pex12r5"
+  },{
+    "owner_name": "elephant",
+    "block_signing_key": "EOS889d9M8AxYpTa6CXB9zxufAXAnP8X99dYR7f5KEMx4WZHsEyvi"
+  },{
+    "owner_name": "bat",
+    "block_signing_key": "EOS5Fji6x8dgSPHzpi7NpYxQT8V1gxC7cEjKnan2CivHBikS4etyC"
+  },{
+    "owner_name": "tiger",
+    "block_signing_key": "EOS64M8ycqmpCuASmgMcnm82NhKuid5kQewuwnC8L9Dfqsw5oPgiJ"
+  },{
+    "owner_name": "cobra",
+    "block_signing_key": "EOS7xMbVC4ZEgib1yw55XZhLVXFGXERP8EGA4BpZfbWckFDYZ1o3u"
+  },{
+    "owner_name": "fox",
+    "block_signing_key": "EOS6bCCmUMqUJJ6H1NEXbMymYYyVGYyydjdmCEevpv3zGq39M8aFV"
+  },{
+    "owner_name": "gorilla",
+    "block_signing_key": "EOS5Un1GewtVuTabfoV6CbXcSd1Eurog48YcRYHgtgUnsmGoTKcBJ"
+  },{
+    "owner_name": "jaguar",
+    "block_signing_key": "EOS7CYgrJrkqxVUN8iMF2djM97AVUKha99VGeaBLEkE9DRuBXFo5C"
+  },{
+    "owner_name": "lemur",
+    "block_signing_key": "EOS5PGpAfocRKj5yt41XkjupPE1LfLpQHpUvUK9Y1cMwBdhz3RWTb"
+  },{
+    "owner_name": "boar",
+    "block_signing_key": "EOS8XecFVmptNZktRCLyBV71V2hXoxmTonpZtQG8TGcW7K9aVc3m6"
+  },{
+    "owner_name": "leopard",
+    "block_signing_key": "EOS67Znu8W4sBH4RzYAPy3MekGsbwNK7pJhreQoZh58RU9sDGPYzm"
+  },{
+    "owner_name": "lizard",
+    "block_signing_key": "EOS5G5rM2SmLziLokcoN84pdzFzHppXHxScx6d4zTNNrx8jhPDwFD"
+  },{
+    "owner_name": "tortoise",
+    "block_signing_key": "EOS8Eb76Wf2DcGZ58c8i5MZeEZvECz8dyGmR6LZRboeHue59k6a2B"
+  },{
+    "owner_name": "wombat",
+    "block_signing_key": "EOS5stKY8oL3VqdxLozuv5wzEiYLQkSUV96BJ7rn6BaYXtuz2CHrS"
+  },{
+    "owner_name": "zebra",
+    "block_signing_key": "EOS5WCfxXkRFmay7FqUS4keQuvEmkV11d2uCngZkfcRn3BtpL73j2"
+  }],
+  "initial_chain_id": "0000000000000000000000000000000000000000000000000000000000000000"
+}
