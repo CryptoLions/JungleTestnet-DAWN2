@@ -1,7 +1,7 @@
 # JungleTestnet
-EOS public testnetwork Jungle 
-Based on: SuperDawn-2018-04-18
-by: CryptoLions.io
+EOS public testnetwork Jungle   
+Based on: SuperDawn-2018-04-18  
+by: CryptoLions.io  
 
 http://jungle.cryptolions.io:8888/v1/chain/get_info
 
