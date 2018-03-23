@@ -6,6 +6,7 @@ by: CryptoLions.io
 http://jungle.cryptolions.io:8888/v1/chain/get_info
 
 p2p-peer-address = jungle.cryptolions.io:9876
+
 p2p-peer-address = jungle.cryptolions.io:9877
 p2p-peer-address = jungle.cryptolions.io:9878
 p2p-peer-address = jungle.cryptolions.io:9879
