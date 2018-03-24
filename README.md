@@ -29,7 +29,6 @@ producer-name = bat
 producer-name = cobra  
 producer-name = fox  
 producer-name = gorilla  
-producer-name = jaguar  
 producer-name = lemur  
 producer-name = boar  
 producer-name = leopard  
@@ -37,3 +36,8 @@ producer-name = lizard
 producer-name = tortoise  
 producer-name = wombat  
 producer-name = zebra  
+
+# BP Location
+Lion: Ukraine/Kiev testnode (cryptoLions.io)
+Tiger: Ukraine/Lviv testnode (Cryptolions.io)
+Jaguar: preparing to move to EOSNet.io
