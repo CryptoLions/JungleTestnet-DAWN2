@@ -13,6 +13,6 @@ To speedup synchronization process, please download lates <a href="http://jungle
   
 git clone https://github.com/eosio/eos --recursive  
 cd eos  
-git checkout DAWN-2018-03-18  
+git checkout SuperDawn-2018-03-18  
 git submodule update --recursive  
 ./build.sh ubuntu  
