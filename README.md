@@ -15,10 +15,10 @@ p2p-peer-address = jungle.cryptolions.io:9879
 please contact us in telegram channel to participate as block producer: https://t.me/block_producer_candidate
 
 
-Howto Install EOS node:
-
-git clone https://github.com/eosio/eos --recursive
-cd eos
-git checkout DAWN-2018-03-18
-git submodule update --recursive
-./build.sh ubuntu
+# Howto Install EOS node:  
+  
+git clone https://github.com/eosio/eos --recursive  
+cd eos  
+git checkout DAWN-2018-03-18  
+git submodule update --recursive  
+./build.sh ubuntu  
