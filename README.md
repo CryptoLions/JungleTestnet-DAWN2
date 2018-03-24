@@ -16,3 +16,24 @@ cd eos
 git checkout SuperDawn-2018-03-18  
 git submodule update --recursive  
 ./build.sh ubuntu  
+
+# Available producers
+producer-name = wolf  
+producer-name = bear  
+producer-name = panther  
+producer-name = langurs  
+producer-name = crow  
+producer-name = python  
+producer-name = elephant  
+producer-name = bat  
+producer-name = cobra  
+producer-name = fox  
+producer-name = gorilla  
+producer-name = jaguar  
+producer-name = lemur  
+producer-name = boar  
+producer-name = leopard  
+producer-name = lizard  
+producer-name = tortoise  
+producer-name = wombat  
+producer-name = zebra  
