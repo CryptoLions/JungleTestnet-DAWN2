@@ -38,6 +38,6 @@ producer-name = wombat
 producer-name = zebra  
 
 # BP Location
-Lion: Ukraine/Kiev testnode (cryptoLions.io)
-Tiger: Ukraine/Lviv testnode (Cryptolions.io)
-Jaguar: preparing to move to EOSNet.io
+Lion: Ukraine/Kiev testnode (cryptoLions.io)  
+Tiger: Ukraine/Lviv testnode (Cryptolions.io)  
+Jaguar: preparing to move to EOSNet.io  
