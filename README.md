@@ -26,7 +26,7 @@ git submodule update --recursive
 | Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine, Kyiv | CryptoLions.io |
 | Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine, Lviv | CryptoLions.io |
 | Jaguar | eosslc.com | 8876 | 9876 | USA, Bluffdale, UT | EOSNet.io |
-| Bat | processing | ... | ... | Sweeden | EOSIO.se |
+| Bat | processing | ... | ... | Sweden | EOSIO.se |
 | python |  python.prometeos.io | 8888 | 9876 | Spain | Prometeos.io |
 
 
