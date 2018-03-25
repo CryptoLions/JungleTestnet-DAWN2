@@ -9,6 +9,8 @@ please contact us in telegram channel to participate as block producer: https://
 
 To speedup synchronization process, please download lates <a href="http://jungle.cryptolions.io:9898/blocks/jungleBlocks.tar.gz">blocks archive </a>
 
+Network Monitor: http://jungle.cryptolions.io:9898/nodes/
+
 # Howto Install EOS node:  
   
 git clone https://github.com/eosio/eos --recursive  
