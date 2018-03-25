@@ -1,5 +1,5 @@
-# Welcome to the Jungle Testnet
-EOS public testnetwork Jungle   
+# Welcome to the Jungle
+EOS public test network: Jungle   
 Based on: SuperDawn-2018-03-18  
 by: <a href="http://CryptoLions.io">CryptoLions.io</a>  
 
