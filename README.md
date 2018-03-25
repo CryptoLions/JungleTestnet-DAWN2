@@ -25,6 +25,7 @@ git submodule update --recursive
 | Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine, Lviv | CryptoLions.io |
 | Jaguar | eosslc.com | 8876 | 9876 | USA, Bluffdale, UT | EOSNet.io |
 | Bat | processing | ... | ... | Sweeden | EOSIO.se |
+| python | processing | ... | ... | ... | ... |
 
 
 # Available producers
@@ -33,7 +34,6 @@ producer-name = bear
 producer-name = panther  
 producer-name = langurs  
 producer-name = crow  
-producer-name = python  
 producer-name = elephant  
 producer-name = cobra  
 producer-name = fox  
