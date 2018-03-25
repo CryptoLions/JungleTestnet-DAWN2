@@ -38,6 +38,11 @@ producer-name = wombat
 producer-name = zebra  
 
 # BP Location
-Lion: Ukraine/Kiev testnode (cryptoLions.io)  
-Tiger: Ukraine/Lviv testnode (Cryptolions.io)  
-Jaguar: preparing to move to EOSNet.io  
+| BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
+| Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine/Kiev | CryptoLions.io |
+| Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine/Lviv | CryptoLions.io |
+| Jaguar | eosslc.com | 8876 | 9876 | USA/Bluffdale,UT | EOSNet.io |
+
+
+
+
