@@ -17,6 +17,15 @@ git checkout SuperDawn-2018-03-18
 git submodule update --recursive  
 ./build.sh ubuntu  
 
+
+# BP Information
+| BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
+|---------|---------|-------------|------------|----------|--------------|
+| Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine, Kyiv | CryptoLions.io |
+| Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine, Lviv | CryptoLions.io |
+| Jaguar | eosslc.com | 8876 | 9876 | USA, Bluffdale, UT | EOSNet.io |
+
+
 # Available producers
 producer-name = wolf  
 producer-name = bear  
@@ -36,14 +45,5 @@ producer-name = lizard
 producer-name = tortoise  
 producer-name = wombat  
 producer-name = zebra  
-
-# BP Location
-| BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
-|---------|---------|-------------|------------|----------|--------------|
-| Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine/Kiev | CryptoLions.io |
-| Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine/Lviv | CryptoLions.io |
-| Jaguar | eosslc.com | 8876 | 9876 | USA/Bluffdale,UT | EOSNet.io |
-
-
 
 
