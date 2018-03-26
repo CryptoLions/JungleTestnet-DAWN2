@@ -3,13 +3,13 @@ EOS public test network: Jungle
 Based on: SuperDawn-2018-03-18  
 by: <a target="_blank" href="http://CryptoLions.io">CryptoLions.io</a>  
 
-<a target="_blank" href="http://jungle.cryptolions.io:8888/v1/chain/get_info">http://jungle.cryptolions.io:8888/v1/chain/get_info</a>
 
-To participate as block producer please contact us in <a target="_blank" href="https://t.me/block_producer_candidate">telegram channel</a>
+Check the Nodes status in <a target="_blank" href="http://jungle.cryptolions.io:9898/nodes/">Network Monitor</a>
+
+To participate as block producer please contact us in <a target="_blank" href="https://t.me/jungletestnet">telegram channel</a>
 
 To speedup synchronization process, you can download lates <a target="_blank" href="http://jungle.cryptolions.io:9898/blocks/jungleBlocks.tar.gz">blocks archive </a>
 
-<a target="_blank" href="http://jungle.cryptolions.io:9898/nodes/">Network Monitor</a>
 
 # Howto Install EOS node:  
   
