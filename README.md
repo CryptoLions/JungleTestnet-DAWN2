@@ -28,10 +28,11 @@ git submodule update --recursive
 | Jaguar | eosslc.com | 8876 | 9876 | USA, Bluffdale, UT | EOSNet.io |
 | Bat | processing | ... | ... | Sweden | EOSIO.se |
 | python |  python.prometeos.io | 8888 | 9876 | Spain | Prometeos.io |
+| wolf | eosbrazil.com | 8890  | 9878 | Brazil, Sao Paulo | EOS Brazil  |
 
 
 # Available producers
-producer-name = wolf  
+
 producer-name = bear  
 producer-name = panther  
 producer-name = langurs  
