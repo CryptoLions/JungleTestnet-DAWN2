@@ -4,7 +4,7 @@ Based on: SuperDawn-2018-03-18
 by: <a target="_blank" href="http://CryptoLions.io">CryptoLions.io</a>  
 
 
-Check the Nodes status in <a target="_blank" href="http://jungle.cryptolions.io:9898/nodes/">Network Monitor</a>
+Check the Nodes status in <a target="_blank" href="http://jungle.cryptolions.io:9898/monitor/">Network Monitor</a>
 
 To participate as block producer please contact us in <a target="_blank" href="https://t.me/jungletestnet">telegram channel</a>
 
