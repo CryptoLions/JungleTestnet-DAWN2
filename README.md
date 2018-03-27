@@ -40,7 +40,7 @@ make install
 | Fox | 201.18.14.130 | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
 | Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
 | Boar | processing | 8888  | 9876 | USA,  San Francisco | EOSBR |
-| Bear | 35.182.219.0 | ...  | ... | Canada | Eos Cafe |
+| Bear | 35.182.219.0 | 8888  | 9876 | Canada | EOS.Cafe |
 
 
 # Available producers
