@@ -45,7 +45,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Wombat | processing | ....  | .... | .... | ... |
 | Leopard | processing | ....  | .... | Africa | EOSio.africa |
 | Elephant | processing | ....  | .... | USA | Blockpro.one |
-| Langurs | processing | ....  | .... | Poland | EOSgreen.io |
+| Langurs | processing | ....  | .... | UK | EOSgreen.io |
 
 # Available producers
 
