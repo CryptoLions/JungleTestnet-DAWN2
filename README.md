@@ -39,6 +39,8 @@ make install
 | Wolf | eosbrazil.com | 8890  | 9878 | Brazil, Sao Paulo | EOS Brazil  |
 | Fox | 201.18.14.130 | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
 | Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
+| Boar | processing | 8888  | 9876 | ... | EOSBR |
+
 
 # Available producers
 
@@ -49,7 +51,6 @@ producer-name = elephant
 producer-name = cobra  
 producer-name = gorilla  
 producer-name = lemur  
-producer-name = boar  
 producer-name = leopard  
 producer-name = lizard  
 producer-name = tortoise  
