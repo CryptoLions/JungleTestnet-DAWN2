@@ -30,7 +30,7 @@ git submodule update --recursive
 | Python |  python.prometeos.io | 8888 | 9876 | Spain | Prometeos.io |
 | Wolf | eosbrazil.com | 8890  | 9878 | Brazil, Sao Paulo | EOS Brazil  |
 | Fox | 201.18.14.130 | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
-| Panther | processing.. | ...  | ... | UK, London | EOS Rio  | EOS 42 London
+| Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
 
 # Available producers
 
