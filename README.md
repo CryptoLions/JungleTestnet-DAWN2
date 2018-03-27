@@ -26,15 +26,15 @@ git submodule update --recursive
 | Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine, Kyiv | CryptoLions.io |
 | Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine, Lviv | CryptoLions.io |
 | Jaguar | eosslc.com | 8800 | 9877 | USA, Bluffdale, UT | EOSNet.io |
-| Bat | processing | ... | ... | Sweden | EOSIO.se |
+| Bat | ctestnet.eosio.se | 8881 | 9871 | Sweden | EOSIO.se |
 | Python |  python.prometeos.io | 8888 | 9876 | Spain | Prometeos.io |
 | Wolf | eosbrazil.com | 8890  | 9878 | Brazil, Sao Paulo | EOS Brazil  |
 | Fox | 201.18.14.130 | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
+| Panther | processing.. | ...  | ... | UK, London | EOS Rio  | EOS 42 London
 
 # Available producers
 
 producer-name = bear  
-producer-name = panther  
 producer-name = langurs  
 producer-name = crow  
 producer-name = elephant  
