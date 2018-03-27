@@ -44,7 +44,7 @@ You can download demo node configuration <a href="http://jungle.cryptolions.io:9
 | Boar | processing | 8888  | 9876 | USA,  San Francisco | EOSBR |
 | Wombat | processing | ....  | .... | .... | ... |
 | Leopard | processing | ....  | .... | Africa | ... |
-| Elephant | processing | ....  | .... | India | Blockpro.one |
+| Elephant | processing | ....  | .... | USA | Blockpro.one |
 
 # Available producers
 
