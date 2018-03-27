@@ -35,7 +35,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Lion | jungle.cryptolions.io | 8888 | 9876 | Ukraine, Kyiv | CryptoLions.io |
 | Tiger | 193.93.219.219 | 8888 | 9876 | Ukraine, Lviv | CryptoLions.io |
 | Jaguar | eosslc.com | 8800 | 9877 | USA, Bluffdale, UT | EOSNet.io |
-| Bat | ctestnet.eosio.se | 8881 | 9871 | Sweden | EOSIO.se |
+| Bat | ctestnet.eosio.se | 8881 | 9871 | Sweden | EOSio.se |
 | Python |  python.prometeos.io | 8888 | 9876 | Spain | Prometeos.io |
 | Wolf | eosbrazil.com | 8890  | 9878 | Brazil, Sao Paulo | EOS Brazil  |
 | Fox | 201.18.14.130 | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
@@ -43,7 +43,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Bear | 35.182.219.0 | 8888  | 9876 | Canada | EOS.Cafe |
 | Boar | processing | 8888  | 9876 | USA,  San Francisco | EOSBR |
 | Wombat | processing | ....  | .... | .... | ... |
-| Leopard | processing | ....  | .... | Africa | ... |
+| Leopard | processing | ....  | .... | Africa | EOSio.africa |
 | Elephant | processing | ....  | .... | USA | Blockpro.one |
 | Langurs | processing | ....  | .... | Poland | EOSgreen.io |
 
