@@ -41,7 +41,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Fox | eosrio.entropia.in | 8889  | 9876 | Brazil, Rio de Janeiro | EOS Rio  |
 | Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
 | Bear | 35.182.219.0 | 8888  | 9876 | Canada | EOS.Cafe |
-| Boar | processing | 8888  | 9876 | USA,  San Francisco | EOSBR |
+| Boar | 138.68.238.129 | 8890  | 9876 | USA,  San Francisco | EOSBR |
 | Wombat | processing | ....  | .... | .... | ... |
 | Leopard | processing | ....  | .... | Africa | EOSio.africa |
 | Elephant | processing | ....  | .... | USA | Blockpro.one |
