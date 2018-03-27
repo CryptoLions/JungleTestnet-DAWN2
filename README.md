@@ -46,6 +46,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Leopard | processing | ....  | .... | Africa | EOSio.africa |
 | Elephant | processing | ....  | .... | USA | Blockpro.one |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
+| Zebra | processing | ....  | .... | Canada, Montreal | EOS New York |
 
 # Available producers
 
@@ -55,7 +56,6 @@ producer-name = gorilla
 producer-name = lemur  
 producer-name = lizard  
 producer-name = tortoise  
-producer-name = zebra  
 
 
 # How to speed-up sync
