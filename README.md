@@ -19,6 +19,8 @@ git submodule update --recursive
 cd build
 make install
 
+You can download demo node configuration <a href="http://jungle.cryptolions.io:9898/JungleTestnetBPnode.tar.gz">here</a>
+
 # How to configure node
 - Create data-dir folder for you node, for example /opt/jungleTestnet  
 - Download files config.ini and genesis.json in this folder  
