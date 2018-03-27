@@ -8,7 +8,8 @@ Check the Nodes status in <a target="_blank" href="http://jungle.cryptolions.io:
 
 To participate as block producer please contact us in <a target="_blank" href="https://t.me/jungletestnet">telegram channel</a>
 
-To speedup synchronization process, you can download lates <a target="_blank" href="http://jungle.cryptolions.io:9898/blocks/jungleBlocks.tar.gz">blocks archive </a>
+To speedup synchronization process, you can download lates <a target="_blank" href="http://jungle.cryptolions.io:9898/blocks/jungleBlocks.tar.gz">blocks archive </a>  
+After downloading move blocks folder from archive to you data-dir folder and use for first run option --replay (example included in start.sh)  
 
 
 # Howto Install EOS node:  
