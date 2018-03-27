@@ -40,7 +40,8 @@ make install
 | Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
 | Boar | processing | 8888  | 9876 | USA,  San Francisco | EOSBR |
 | Bear | 35.182.219.0 | 8888  | 9876 | Canada | EOS.Cafe |
-
+| Wombat | processing | ....  | .... | .... | EOS.Cafe |
+| Leopard | processing | ....  | .... | Africa | ... |
 
 # Available producers
 
@@ -50,10 +51,8 @@ producer-name = elephant
 producer-name = cobra  
 producer-name = gorilla  
 producer-name = lemur  
-producer-name = leopard  
 producer-name = lizard  
 producer-name = tortoise  
-producer-name = wombat  
 producer-name = zebra  
 
 
