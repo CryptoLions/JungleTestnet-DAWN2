@@ -25,8 +25,9 @@ make install
 # How to configure node
 - Create data-dir folder for you node, for example /opt/jungleTestnet  
 - Download files config.ini and genesis.json in this folder  
+- Edit path to data-dr/genesis.json file in coonfig.ini
 - If you setup a BP node get Key for you producer: https://t.me/jungletestnet  
-- Download files <a href="https://github.com/CryptoLions/scripts/blob/master/start.sh">start.sh</a> <a href="https://github.com/CryptoLions/scripts/blob/master/stop.sh">stop.sh</a> and edit with your folder path inside
+- Download files <a href="https://github.com/CryptoLions/scripts/blob/master/start.sh">start.sh</a> <a href="https://github.com/CryptoLions/scripts/blob/master/stop.sh">stop.sh</a> and edit path inside
 
 
 # BP Information
