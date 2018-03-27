@@ -60,4 +60,4 @@ producer-name = zebra
 
 # How to speed-up sync
 To speedup synchronization process, you can download lates <a target="_blank" href="http://jungle.cryptolions.io:9898/blocks/jungleBlocks.tar.gz">blocks archive </a>  
-After downloading move blocks folder from archive to you data-dir folder and use for first run option --replay (example included in start.sh)  
+After downloading move blocks folder from archive to you data-dir folder and use for first run option --replay (example included in <a href="https://github.com/CryptoLions/scripts/blob/master/start.sh">start.sh</a> )  
