@@ -42,9 +42,9 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Panther | bp2-d3.eos42.io | 8888  | 9876 | UK, London | EOS42.io|
 | Bear | 35.182.219.0 | 8888  | 9876 | Canada | EOS.Cafe |
 | Boar | 138.68.238.129 | 8890  | 9876 | USA,  San Francisco | EOSBR |
+| Elephant | 18.188.133.163 | 8888  | 9876 | USA | Blockpro.one |
+| Leopard | hlathi.eosio.africa | 8888  | 9877 | Africa | EOSio.africa |
 | Wombat | processing | ....  | .... | .... | ... |
-| Leopard | processing | ....  | .... | Africa | EOSio.africa |
-| Elephant | processing | ....  | .... | USA | Blockpro.one |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
 | Zebra | processing | ....  | .... | Canada, Montreal | EOS New York |
 
