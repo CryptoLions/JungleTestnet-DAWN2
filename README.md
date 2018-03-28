@@ -45,7 +45,7 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Elephant | 18.188.52.250 | 8889  | 9876 | USA | Blockpro.one |
 | Leopard | hlathi.eosio.africa | 8888  | 9877 | Africa | EOSio.africa |
 | Zebra | jungle.eosnewyork.io | 8888  | 9876 | Canada, Montreal | EOS New York |
-| Wombat | processing | ....  | .... | .... | ... |
+| Wombat | processing | ....  | .... | Russia | ... |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
 | Gorilla | processing | ....  | .... | UK | EOSnottingham.io |
 | Tortoise | processing | ....  | .... | France | EOSdac.io |
