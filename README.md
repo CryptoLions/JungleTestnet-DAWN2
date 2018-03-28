@@ -47,13 +47,14 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Zebra | jungle.eosnewyork.io | 8888  | 9876 | Canada, Montreal | EOS New York |
 | Wombat | processing | ....  | .... | .... | ... |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
+| gorilla | processing | ....  | .... | UK | EOSnottingham.io |
+
 
 
 # Available producers
 
 producer-name = crow  
 producer-name = cobra  
-producer-name = gorilla  
 producer-name = lemur  
 producer-name = lizard  
 producer-name = tortoise  
