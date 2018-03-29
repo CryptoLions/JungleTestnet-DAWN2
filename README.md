@@ -49,16 +49,14 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Wombat | pearls.capital | 8888  | 9876 | Russia, Moscow | pearls.capital |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
 | Gorilla | processing | ....  | .... | UK | EOSnottingham.io |
-
-
+| Crow | processing | ....  | .... | China |  |
+| Lizard | processing | ....  | .... | India | EOS India |
 
 
 # Available producers
 
-producer-name = crow  
 producer-name = cobra  
 producer-name = lemur  
-producer-name = lizard  
 
 
 # How to speed-up sync
