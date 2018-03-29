@@ -15,8 +15,8 @@ git clone https://github.com/eosio/eos --recursive
 cd eos  
 git checkout SuperDawn-2018-03-18  
 git submodule update --recursive  
-./build.sh ubuntu  
-cd build
+./build.sh ubuntu full  
+cd build  
 make install
 
 You can download demo node data-folder <a href="http://jungle.cryptolions.io:9898/JungleTestnetBPnode.tar.gz">here</a>
