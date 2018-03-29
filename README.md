@@ -51,11 +51,11 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Gorilla | processing | ....  | .... | UK | EOSnottingham.io |
 | Crow | processing | ....  | .... | China |  |
 | Lizard | processing | ....  | .... | India | EOS India |
+| Cobra | processing | ....  | .... | China | CIGEOS |
 
 
 # Available producers
 
-producer-name = cobra  
 producer-name = lemur  
 
 
