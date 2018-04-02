@@ -47,9 +47,9 @@ You can download demo node data-folder <a href="http://jungle.cryptolions.io:989
 | Zebra | jungle.eosnewyork.io | 8888  | 9876 | Canada, Montreal | EOS New York |
 | Tortoise | 149.202.201.27 | 8888  | 9876 | France | EOSdac.io |
 | Wombat | pearls.capital | 8888  | 9876 | Russia, Moscow | pearls.capital |
+| Crow | 47.92.97.56 | 8888  | 9876 | China | EOS UIP |
 | Langurs | processing | ....  | .... | UK | EOSgreen.io |
 | Gorilla | processing | ....  | .... | UK | EOSnottingham.io |
-| Crow | processing | ....  | .... | China |  |
 | Lizard | processing | ....  | .... | India | EOS India |
 | Cobra | processing | ....  | .... | China | CIGEOS |
 
