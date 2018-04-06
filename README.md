@@ -1,8 +1,9 @@
 # Welcome to the Jungle
 
-===================================
-!!! This chain for dawn 2 stopped. Lets test dawn-v3.0.0 release : https://github.com/CryptoLions/Jungle3Testnet
-===================================
+===================================  
+!!! This chain for dawn 2 stopped. Lets test dawn-v3.0.0 release:  
+https://github.com/CryptoLions/Jungle3Testnet  
+===================================  
 
 EOS public test network: Jungle   
 Based on: SuperDawn-2018-03-18  
